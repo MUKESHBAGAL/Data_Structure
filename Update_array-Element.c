@@ -12,7 +12,7 @@ int main() {
     }
     printf("\nEnter Location we want update a array: ");
     scanf("%d",&pos);//pos is a postion of a array we want update here
-    printf("\nEnter a element we want to update as per location ;");
+    printf("\nEnter a element we want to update as per location :");
     scanf("%d",&x);//x is a upadte element
     
     array[pos]=x;
@@ -29,19 +29,19 @@ int main() {
 
 
 
-OUTPUT: 
-	Enter Number of Element in Array :5
+//OUTPUT: 
+//	Enter Number of Element in Array :5
+//
+//        Enter 5 Element in array 
+//	array[0]=1
+//	array[1]=2
+//	array[2]=3
+//	array[3]=4
+//	array[4]=5
 
-        Enter 5 Element in array 
-	array[0]=1
-	array[1]=2
-	array[2]=3
-	array[3]=4
-	array[4]=5
+//	Enter Location we want update a array: 3
+//
+//	Enter a element we want to update as per location :6
 
-	Enter Location we want update a array: 3
-
-	Enter a element we want to update as per location ;6
-
-	Display array as per update : 1 2 3 6 5 
+//	Display array as per update : 1 2 3 6 5 
 
