@@ -14,18 +14,17 @@ void create(struct node**head,int data){
         
         *head=newNode;
 }
-int PrintLinkedList(struct node*head){
+void PrintLinkedList(struct node*head){
     struct node *temp;
-    int count=0;
-    temp=head;
+      temp=head;
  //travers a linked list and maintain a count
         while(temp!=NULL){
             printf("%d->",temp->data);
             temp=temp->next;
-            count++;//increment in count
+           
         }
     printf("NULL\n");
-    return count;
+   
 }
 void PrintOddNode(struct node*head){
     struct node *temp;
@@ -41,7 +40,6 @@ void PrintOddNode(struct node*head){
 }
 int main(){
     struct node *list=NULL;
-    int count;
     // calling a count function
     create(&list ,10);
     create(&list ,27);
@@ -53,7 +51,7 @@ int main(){
     create(&list ,34);
     // calling a PrintLinkedList function and return Value Stored in a count variable
     printf("\nOrignial Linked List: ");
-    count=PrintLinkedList(list);
+    PrintLinkedList(list);
     printf("\n\nOnly Odd node of Linked List: ");
     PrintOddNode(list);
     
