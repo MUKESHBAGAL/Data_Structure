@@ -14,18 +14,15 @@ void create(struct node**head,int data){
         
         *head=newNode;
 }
-int PrintLinkedList(struct node*head){
+void PrintLinkedList(struct node*head){
     struct node *temp;
-    int count=0;
     temp=head;
  //travers a linked list and maintain a count
         while(temp!=NULL){
             printf("%d->",temp->data);
             temp=temp->next;
-            count++;//increment in count
         }
     printf("NULL\n");
-    return count;
 }
 void PrintEvenNode(struct node*head){
     struct node *temp;
@@ -41,7 +38,6 @@ void PrintEvenNode(struct node*head){
 }
 int main(){
     struct node *list=NULL;
-    int count;
     // calling a count function
     create(&list ,10);
     create(&list ,27);
@@ -53,7 +49,7 @@ int main(){
     create(&list ,34);
     // calling a PrintLinkedList function and return Value Stored in a count variable
     printf("\nOrignial Linked List: ");
-    count=PrintLinkedList(list);
+    PrintLinkedList(list);
     printf("\n\nOnly Even node of Linked List: ");
     PrintEvenNode(list);
     
@@ -68,6 +64,6 @@ int main(){
        3Orignial Linked List: 34->27->32->55->48->13->27->10->NULL
 
 
-Only Even node of Linked List: 34->32->48->10->NULL
+      Only Even node of Linked List: 34->32->48->10->NULL
 */
 
