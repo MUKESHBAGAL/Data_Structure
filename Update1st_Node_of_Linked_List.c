@@ -1,4 +1,4 @@
-// This Program for Print even node of linked list
+// This Program for update 1st node of linked list
 #include<stdio.h>
 #include<stdlib.h>
 // linked list node structure
