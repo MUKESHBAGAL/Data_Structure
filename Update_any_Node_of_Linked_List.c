@@ -32,7 +32,7 @@ void Update_last_Node(struct node*head,int key,int count,int location){
     temp=head;
     ptr=head;
    if(location>count)
-   printf("Something Else Inout");
+   printf("Something Else Input");
    else{
         for(int i=1;i<location;i++){
             printf("%d->",temp->data);
