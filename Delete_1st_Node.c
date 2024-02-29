@@ -33,15 +33,12 @@ void PrintLinkedList(struct node*head){
         }
     printf("NULL\n");
 }
-void Delete_frist_Node(struct node*head){
-    struct node *temp;
-    temp=head->next;
-        while(temp!=NULL){
-            printf("%d->",temp->data);
-            temp=temp->next;
-        }
-    printf("NULL\n");
- free(head->next);
+void Delete_frist_Node(struct node **head){
+    struct node *temp=NULL;
+    temp=*head;
+    *head=(*head)->next;
+    free(temp);
+    return *head;
 }
 int main(){
     struct node *list=NULL;
@@ -57,7 +54,8 @@ int main(){
     printf("\nOrignial Linked List: ");
     PrintLinkedList(list);
     printf("\nAfter Delete 1st Node: ");
-    Delete_frist_Node(list);
+    Delete_frist_Node(&list);
+     PrintLinkedList(list);
     return 0;
 }
 
