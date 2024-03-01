@@ -38,7 +38,6 @@ void Delete_frist_Node(struct node **head){
     temp=*head;
     *head=(*head)->next;
     free(temp);
-  
 }
 int main(){
     struct node *list=NULL;
