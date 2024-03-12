@@ -12,22 +12,24 @@
 	1.Transversal of Linked List
 	2.Print Last Node of Linked List
 	3.print Second Last node
-	4.print Alternate Node
-	5.Check Given Node Present Or Not
-	6.Print Middle Node of Linked List
-	7.Print only Even node of Linked List
-	8.Print Only Odd node of Linked List
-	9.Update Node Of Linked List
-	10.Update Last Node of linked List
-	11.Update Any Node of linked List
-	12.Insert Node At 1st
-	13.Insert Node At last 
-	14.Insert node After Any Node
-	15.Delete 1st node
-	16.Delete Last node
-	17.Delete Any Node In Linked List
-	18.Merge Sorted Linked List in Unsorted form
-	19.Merge Sorted Linked List in Sorted form
-	20.Check Intersection Point In Linked List(Two Linked list intersect to each other or not and print This Node)
-	21.Reverse Linked List 
+	4.Count Number Of Node In Linked List
+	5.print Alternate Node
+	6.Check Given Node Present Or Not
+	7.Print Middle Node of Linked List
+	8.Print only Even node of Linked List
+	9.Print Only Odd node of Linked List
+	10.Update Node Of Linked List
+	11.Update 1st Element of Linked List
+	12.Update Last Node of linked List
+	13.Update Any Node of linked List
+	14.Insert Node At 1st
+	15.Insert Node At last 
+	16.Insert node After Any Node
+	17.Delete 1st node
+	18.Delete Last node
+	19.Delete Any Node In Linked List
+	20.Merge Sorted Linked List in Unsorted form
+	21.Merge Sorted Linked List in Sorted form
+	22.Check Intersection Point In Linked List(Two Linked list intersect to each other or not and print This Node)
+	23.Reverse Linked List 
 	
