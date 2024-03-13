@@ -14,7 +14,8 @@ int main(){
 	create_Linked_List(n);
 	printf("Orignal Linked List: ");
 	Display();
-    count=Duplicate_Node_Count();
+        count=Duplicate_Node_Count();
+    
 	if(count==0){
         printf("\nNO Duplicate Node is Available");
     }
@@ -61,29 +62,23 @@ void Display(){
 	
 	
 }
-int Duplicate_Node_Count() {
-    int count = 0;
-    struct node *ptr;
-    struct node *current;
-    struct node *temp = s;
-
-    while (temp != NULL) {
-        current = temp;
-        while (current->next != NULL) {
-            ptr = current->next;
-            if (temp->data == ptr->data) {
-                count++;
-                // Remove the duplicate node
-                current->next = ptr->next;
-                free(ptr);
-            } else {
-                current = current->next;
+int Duplicate_Node_Count(){
+    int count =0;
+    struct node *ptr=s;
+    struct node *current=s;
+    struct node *temp=s;
+    while(temp->next!=NULL){
+        ptr=temp->next;
+        while(ptr!=NULL){  
+            if(temp->data==ptr->data){
+                  count++;
             }
+                ptr=ptr->next;
         }
-        temp = temp->next;
+            temp=temp->next;
     }
     return count;
-}
+} 
 
 /*
 OUTPUT::
@@ -92,13 +87,14 @@ Enter Number of Node in Linked List:10
 Input 1:1
 Input 2:2
 Input 3:3
-Input 4:1
-Input 5:4
-Input 6:5
-Input 7:6
-Input 8:1
-Input 9:7
-Input 10:1
-Orignal Linked List: 1->2->3->1->4->5->6->1->7->1->NULL
+Input 4:4
+Input 5:5
+Input 6:6
+Input 7:7
+Input 8:8
+Input 9:9
+Input 10:10
+Orignal Linked List: 1->2->3->4->5->6->7->8->9->10->NULL
+After reversing the Linked list: 10->9->8->7->6->5->4->3->2->1->NULL
 
-3 duplicate Node In Linked List*/
+*/
