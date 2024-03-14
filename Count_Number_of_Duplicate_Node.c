@@ -17,10 +17,10 @@ int main(){
         count=Duplicate_Node_Count();
     
 	if(count==0){
-        printf("\nNO Duplicate Node is Available");
+        printf("\nNO Duplicate Node is Available\n");
     }
     else 
-        printf("\n%d duplicate Node In Linked List",count);
+        printf("\n%d duplicate Node In Linked List\n",count);
 }
 void create_Linked_List(int n){
 	struct node *ptr,*temp;
@@ -83,18 +83,19 @@ int Duplicate_Node_Count(){
 /*
 OUTPUT::
 
-Enter Number of Node in Linked List:10
+EEnter Number of Node in Linked List:10
 Input 1:1
 Input 2:2
 Input 3:3
 Input 4:4
-Input 5:5
-Input 6:6
-Input 7:7
-Input 8:8
-Input 9:9
-Input 10:10
-Orignal Linked List: 1->2->3->4->5->6->7->8->9->10->NULL
-After reversing the Linked list: 10->9->8->7->6->5->4->3->2->1->NULL
+Input 5:1
+Input 6:2
+Input 7:3
+Input 8:5
+Input 9:6
+Input 10:1
+Orignal Linked List: 1->2->3->4->1->2->3->5->6->1->NULL
+
+5 duplicate Node In Linked List
 
 */
