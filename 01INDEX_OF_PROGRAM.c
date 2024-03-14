@@ -33,4 +33,4 @@
 	22.Check Intersection Point In Linked List(Two Linked list intersect to each other or not and print This Node)
 	23.Reverse Linked List 
 	24.Count Number of Duplicate Node
-
+	25.Delete Duplicate Node from Linked List
