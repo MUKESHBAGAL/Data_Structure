@@ -34,3 +34,4 @@
 	23.Reverse Linked List 
 	24.Count Number of Duplicate Node
 	25.Delete Duplicate Node from Linked List
+	26.Segregate Even Odd Node in Linked list
