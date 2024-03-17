@@ -36,3 +36,4 @@
 	25.Delete Duplicate Node from Linked List
 	26.Segregate Even Odd Node in Linked list
 	27.Transversal And Display of Doubly  Linked List
+	28.Insert New Node at any location in Doubly Linked List
