@@ -73,7 +73,7 @@ void PrintLinkedList(){
 void Insert_In_Doubly_LL(int data, int location) {
     struct node *node = malloc(sizeof(struct node));
     struct node *ptr = s;
-    struct node *temp = s; // Fixing the missing semicolon here
+    struct node *temp = s; 
     node->data = data;
     node->next = NULL;
     
