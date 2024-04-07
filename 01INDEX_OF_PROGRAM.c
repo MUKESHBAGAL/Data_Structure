@@ -39,3 +39,4 @@
 	28.Insert New Node at any location in Doubly Linked List
 	29.Delete any node in doubly Linked List
 	30.Transversal And Display of Circular Linked List
+	31.Transversal And Display of  Doubly Circular Linked List
