@@ -40,3 +40,19 @@
 	29.Delete any node in doubly Linked List
 	30.Transversal And Display of Circular Linked List
 	31.Transversal And Display of  Doubly Circular Linked List
+	
+# STACK AND QUEUE IN DATA STRUCTURE 
+	1.Implement Stack Using Linked List And Push and Pop Operation
+	
+	
+	
+	
+## TOTAL CODE  ##
+	
+	CHAPTER NAME                                    TOTAL CODE
+	
+	I. ARRAY                                             5
+	II.LINKED LIST                                      31
+	II.STACK AND QUEUE                                   1
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	TOTAL                                               37
