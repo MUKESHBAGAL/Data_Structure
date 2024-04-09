@@ -43,7 +43,7 @@
 	
 # STACK AND QUEUE IN DATA STRUCTURE 
 	1.Implement Stack Using Linked List And Push and Pop Operation
-	
+	2.Program For The Implement Two Stack
 	
 	
 	
@@ -53,6 +53,6 @@
 	
 	I. ARRAY                                             5
 	II.LINKED LIST                                      31
-	II.STACK AND QUEUE                                   1
+	II.STACK AND QUEUE                                   2
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               37
+	TOTAL                                               38
