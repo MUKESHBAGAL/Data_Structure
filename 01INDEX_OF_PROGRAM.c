@@ -44,15 +44,19 @@
 # STACK AND QUEUE IN DATA STRUCTURE 
 	1.Implement Stack Using Linked List And Push and Pop Operation
 	2.Program For The Implement Two Stack
-	
+
+# TREE
+
+	1.Program for tree traversal preorder in Binary Tree
 	
 	
 ## TOTAL CODE  ##
 	
 	CHAPTER NAME                                    TOTAL CODE
 	
-	I. ARRAY                                             5
+	I. ARRAY                                            5
 	II.LINKED LIST                                      31
-	II.STACK AND QUEUE                                   2
+	III.STACK AND QUEUE                                 2
+	IV .TREE                                            1
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               38
+	TOTAL                                               39
