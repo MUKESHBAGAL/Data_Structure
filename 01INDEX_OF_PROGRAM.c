@@ -49,6 +49,7 @@
 
 	1.Program for tree traversal preorder in Binary Tree
 	2.Program for tree traversal Inorder in Binary Tree
+	3.Program for tree traversal Inorder in Binary Tree
 	
 ## TOTAL CODE  ##
 	
@@ -57,6 +58,6 @@
 	I. ARRAY                                            5
 	II.LINKED LIST                                      31
 	III.STACK AND QUEUE                                 2
-	IV .TREE                                            2
+	IV .TREE                                            3
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               40
+	TOTAL                                               41
