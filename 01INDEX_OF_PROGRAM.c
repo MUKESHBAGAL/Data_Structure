@@ -48,7 +48,7 @@
 # TREE
 
 	1.Program for tree traversal preorder in Binary Tree
-	
+	2.Program for tree traversal Inorder in Binary Tree
 	
 ## TOTAL CODE  ##
 	
