@@ -52,6 +52,7 @@
 	3.Program For tree traversal Inorder in Binary Search Tree
 	4.Program For Count Number of Node in Binary Search Tree
 	5.Write a Program For a Count Leaf Node in Tree
+	6.Write a Program For a Count Non Leaf Node in Tree
 ## TOTAL CODE  ##
 	
 	CHAPTER NAME                                    TOTAL CODE
@@ -59,6 +60,6 @@
 	I. ARRAY                                            5
 	II.LINKED LIST                                      31
 	III.STACK AND QUEUE                                 2
-	IV .TREE                                            5
+	IV .TREE                                            6
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               43
+	TOTAL                                               44
