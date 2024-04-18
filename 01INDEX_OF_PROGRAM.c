@@ -53,6 +53,7 @@
 	4.Program For Count Number of Node in Binary Search Tree
 	5.Write a Program For a Count Leaf Node in Tree
 	6.Write a Program For a Count Non Leaf Node in Tree
+	7.Write a Program For a Find Maximum node in tree
 ## TOTAL CODE  ##
 	
 	CHAPTER NAME                                    TOTAL CODE
@@ -60,6 +61,6 @@
 	I. ARRAY                                            5
 	II.LINKED LIST                                      31
 	III.STACK AND QUEUE                                 2
-	IV .TREE                                            6
+	IV .TREE                                            7
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               44
+	TOTAL                                               45
