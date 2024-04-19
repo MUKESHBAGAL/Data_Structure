@@ -54,6 +54,7 @@
 	5.Write a Program For a Count Leaf Node in Tree
 	6.Write a Program For a Count Non Leaf Node in Tree
 	7.Write a Program For a Find Maximum node in tree
+	8.Write a Program For print Node form a K Distance
 ## TOTAL CODE  ##
 	
 	CHAPTER NAME                                    TOTAL CODE
@@ -61,6 +62,6 @@
 	I. ARRAY                                            5
 	II.LINKED LIST                                      31
 	III.STACK AND QUEUE                                 2
-	IV .TREE                                            7
+	IV .TREE                                            8
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               45
+	TOTAL                                               46
