@@ -56,6 +56,7 @@
 	7.Write a Program For a Find Maximum node in tree
 	8.Write a Program For print Node form a K Distance
 	9.Write a code For Satisfy Children Sum Property
+	10.Write A code For Search Element In Tree
 ## TOTAL CODE  ##
 	
 	CHAPTER NAME                                    TOTAL CODE
@@ -63,6 +64,6 @@
 	I. ARRAY                                            5
 	II.LINKED LIST                                      31
 	III.STACK AND QUEUE                                 2
-	IV .TREE                                            9
+	IV .TREE                                            10
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               47
+	TOTAL                                               48
