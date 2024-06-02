@@ -32,15 +32,16 @@
 	21.Merge Sorted Linked List in Unsorted form
 	22.Merge Sorted Linked List in Sorted form
 	23.Check Intersection Point In Linked List(Two Linked list intersect to each other or not and print This Node)
-	24.Reverse Linked List 
-	25.Count Number of Duplicate Node
-	26.Delete Duplicate Node from Linked List
-	27.Segregate Even Odd Node in Linked list
-	28.Transversal And Display of Doubly  Linked List
-	29.Insert New Node at any location in Doubly Linked List
-	30.Delete any node in doubly Linked List
-	31.Transversal And Display of Circular Linked List
-	32.Transversal And Display of  Doubly Circular Linked List
+	24.Write Code For Reverse Data in Linked List
+	25.Reverse Linked List 
+	26.Count Number of Duplicate Node
+	27.Delete Duplicate Node from Linked List
+	28.Segregate Even Odd Node in Linked list
+	29.Transversal And Display of Doubly  Linked List
+	30.Insert New Node at any location in Doubly Linked List
+	31.Delete any node in doubly Linked List
+	32.Transversal And Display of Circular Linked List
+	33.Transversal And Display of  Doubly Circular Linked List
 	
 # STACK AND QUEUE IN DATA STRUCTURE 
 	1.Implement Stack Using Linked List And Push and Pop Operation
@@ -63,8 +64,8 @@
 	CHAPTER NAME                                    TOTAL CODE
 	
 	I. ARRAY                                            5
-	II.LINKED LIST                                      32
+	II.LINKED LIST                                      33
 	III.STACK AND QUEUE                                 2
 	IV .TREE                                            10
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               49
+	TOTAL                                               50
