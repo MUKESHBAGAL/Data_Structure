@@ -6,6 +6,7 @@
 	3.Insert Element at Zero index
 	4.Insert Element at any index
 	5.Delete array element
+	6.Write a Code For Find Largest Element in array
 ---->Total Program == 5
 
 # LINKED LIST IN DATA STRUCTURE
@@ -63,9 +64,9 @@
 	
 	CHAPTER NAME                                    TOTAL CODE
 	
-	I. ARRAY                                            5
+	I. ARRAY                                            6
 	II.LINKED LIST                                      33
 	III.STACK AND QUEUE                                 2
 	IV .TREE                                            10
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               50
+	TOTAL                                               51
