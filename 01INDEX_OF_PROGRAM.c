@@ -7,7 +7,7 @@
 	4.Insert Element at any index
 	5.Delete array element
 	6.Write a Code For Find Largest Element in array
----->Total Program == 5
+---->Total Program == 6
 
 # LINKED LIST IN DATA STRUCTURE
 	1.Transversal of Linked List
