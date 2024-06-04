@@ -7,6 +7,7 @@
 	4.Insert Element at any index
 	5.Delete array element
 	6.Write a Code For Find Largest Element in array
+	7.To Check Array is Sorted or not
 ---->Total Program == 6
 
 # LINKED LIST IN DATA STRUCTURE
@@ -64,9 +65,9 @@
 	
 	CHAPTER NAME                                    TOTAL CODE
 	
-	I. ARRAY                                            6
+	I. ARRAY                                            7
 	II.LINKED LIST                                      33
 	III.STACK AND QUEUE                                 2
 	IV .TREE                                            10
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               51
+	TOTAL                                               52
