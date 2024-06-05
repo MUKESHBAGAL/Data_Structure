@@ -8,6 +8,7 @@
 	5.Delete array element
 	6.Write a Code For Find Largest Element in array
 	7.To Check Array is Sorted or not
+	8.Write a code For Search And Delete Search Element
 ---->Total Program == 6
 
 # LINKED LIST IN DATA STRUCTURE
