@@ -9,6 +9,7 @@
 	6.Write a Code For Find Largest Element in array
 	7.To Check Array is Sorted or not
 	8.Write a code For Search And Delete Search Element
+	9.Write a code For Reverse Array
 ---->Total Program == 6
 
 # LINKED LIST IN DATA STRUCTURE
@@ -66,9 +67,9 @@
 	
 	CHAPTER NAME                                    TOTAL CODE
 	
-	I. ARRAY                                            8
+	I. ARRAY                                            9
 	II.LINKED LIST                                      33
 	III.STACK AND QUEUE                                 2
 	IV .TREE                                            10
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               53
+	TOTAL                                               54
