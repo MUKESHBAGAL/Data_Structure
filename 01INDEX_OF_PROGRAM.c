@@ -11,6 +11,7 @@
 	8.Write a code For Search And Delete Search Element
 	9.Write a code For Reverse Array
        10.Write s code For find  Second Largest Number in array
+       11.Wite a code For move Zero Element at last of array
 ---->Total Program == 6
 
 # LINKED LIST IN DATA STRUCTURE
@@ -68,7 +69,7 @@
 	
 	CHAPTER NAME                                     TOTAL CODE
 	
-	I.  ARRAY                                           10
+	I.  ARRAY                                           11
 	II. LINKED LIST                                     33
 	III.STACK AND QUEUE                                 02
 	IV. TREE                                            10
