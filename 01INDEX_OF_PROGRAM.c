@@ -13,7 +13,8 @@
        10.Write s code For find  Second Largest Number in array
        11.Wite a code For move Zero Element at last of array
        12.Write a code For one left rotation of array
----->Total Program == 12
+       13.Write a code For k left rotation of array
+---->Total Program == 13
 
 # LINKED LIST IN DATA STRUCTURE
 	1.Transversal of Linked List
@@ -70,9 +71,9 @@
 	
 	CHAPTER NAME                                     TOTAL CODE
 	
-	I.  ARRAY                                           12
+	I.  ARRAY                                           13
 	II. LINKED LIST                                     33
 	III.STACK AND QUEUE                                 02
 	IV. TREE                                            10
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               57
+	TOTAL                                               58
