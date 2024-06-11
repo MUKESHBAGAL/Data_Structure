@@ -14,7 +14,8 @@
        11.Wite a code For move Zero Element at last of array
        12.Write a code For one left rotation of array
        13.Write a code For k left rotation of array
----->Total Program == 13
+       14.Write a code For find Leader element in array
+---->Total Program == 14
 
 # LINKED LIST IN DATA STRUCTURE
 	1.Transversal of Linked List
@@ -71,9 +72,9 @@
 	
 	CHAPTER NAME                                     TOTAL CODE
 	
-	I.  ARRAY                                           13
+	I.  ARRAY                                           14
 	II. LINKED LIST                                     33
 	III.STACK AND QUEUE                                 02
 	IV. TREE                                            10
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	TOTAL                                               58
+	TOTAL                                               59
